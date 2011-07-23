@@ -1,0 +1,9 @@
+Scripts for use with the dot.js framework: http://defunkt.io/dotjs/
+	
+mail.google.com.js
+
+	- Currently just for Google Voice users who send and receive SMS by email. This adds a character count box above the body textarea so you know how many out of the 160 max you've used.
+	
+facebook.com.js
+
+	- Removes ads and other junk in the right column. An ugly interval hack right now. Don't use this until it's refined.
